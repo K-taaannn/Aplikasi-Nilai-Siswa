@@ -5,7 +5,7 @@ Jenis-Jenis Level Pengguna:
 
 Admin:<br>
 Menambahkan Akun<br>
-Menambahkan Mapel<br>
+Menambahkan Mapel
 
 Guru:<br>
 Menambahkan Nilai
