@@ -11,8 +11,11 @@ Lihat nilai secara real-time oleh siswa<br>
 Sistem notifikasi dan catatan tambahan
 
 👥 Jenis-Jenis Level Pengguna<br>
+
 1. Admin<br>
+
 Sebagai pengguna dengan hak akses tertinggi.<br>
+
 Fitur yang dapat diakses:<br>
 Menambahkan, mengedit, dan menghapus data guru dan siswa<br>
 Membuat akun pengguna (guru dan siswa)<br>
