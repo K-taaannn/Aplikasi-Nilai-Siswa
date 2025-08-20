@@ -14,7 +14,7 @@ Aplikasi Nilai Siswa adalah sebuah sistem manajemen nilai berbasis web yang memu
 
 👥 Jenis-Jenis Level Pengguna<br>
 
-  1. Admin<br>
+1. Admin<br>
 
   Sebagai pengguna dengan hak akses tertinggi.<br>
 
@@ -25,7 +25,7 @@ Aplikasi Nilai Siswa adalah sebuah sistem manajemen nilai berbasis web yang memu
 - Melihat semua data nilai dan laporan<br>
 - Backup dan restore database
 
-  2. Guru<br>
+2. Guru<br>
 
   Sebagai pengguna yang bertugas mengelola nilai siswa.<br>
 
@@ -35,7 +35,7 @@ Aplikasi Nilai Siswa adalah sebuah sistem manajemen nilai berbasis web yang memu
 - Menambahkan catatan atau komentar pembelajaran siswa<br>
 - Melihat rekap nilai kelas yang diajarkan
   
-  3. Siswa<br>
+3. Siswa<br>
 
   Sebagai pengguna akhir yang dapat melihat nilai mereka sendiri.<br>
 
