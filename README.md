@@ -17,7 +17,7 @@ Aplikasi Nilai Siswa adalah sebuah sistem manajemen nilai berbasis web yang memu
 1. Admin<br>
   Sebagai pengguna dengan hak akses tertinggi.<br>
   Fitur yang dapat diakses:
-- Menambahkan, mengedit, dan menghapus data guru dan siswa<br>
+- Menambahkan, mengedit, dan menghapus data guru dan siswa
 - Membuat akun pengguna (guru dan siswa)<br>
 - Mengatur mata pelajaran dan tahun ajaran<br>
 - Melihat semua data nilai dan laporan<br>
